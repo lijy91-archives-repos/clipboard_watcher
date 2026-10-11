@@ -1,3 +1,8 @@
+> **停止维护：** clipboard_watcher 不再维护，后续剪贴板功能由
+> [nativeapi-core](https://github.com/libnativeapi/nativeapi-core) 的 C++ `Clipboard` API 提供。
+> Android C++ 实现需要原生宿主接入，并遵循系统剪贴板访问限制。
+> 现有 Issues 和 PR 已作为停维工作的一部分关闭。
+
 > **🚀 快速发布您的应用**: 试试 [Fastforge](https://fastforge.dev) - 构建、打包和分发您的 Flutter 应用最简单的方式。
 
 # clipboard_watcher

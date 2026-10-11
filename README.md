@@ -1,3 +1,9 @@
+> **Maintenance ended:** clipboard_watcher is no longer maintained. Future clipboard
+> work is in [nativeapi-core](https://github.com/libnativeapi/nativeapi-core),
+> using the C++ `Clipboard` API. Android's C++ implementation requires a native
+> host and follows system clipboard access restrictions. Existing issues and
+> pull requests are closed as part of this retirement.
+
 > **🚀 Ship Your App Faster**: Try [Fastforge](https://fastforge.dev) - The simplest way to build, package and distribute your Flutter apps.
 
 # clipboard_watcher
